@@ -1,0 +1,23 @@
+# IDE files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+pip-log.txt
+pip-delete-this-arg.txt
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swo
+*.swp
